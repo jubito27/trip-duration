@@ -1,0 +1,8 @@
+# local package
+-e .
+
+# external requirements
+fastapi
+joblib
+uvicorn
+scikit-learn
